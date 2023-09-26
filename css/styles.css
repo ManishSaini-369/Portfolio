@@ -38,7 +38,7 @@ hr {
 }
 
 a {
-  color: #11999E;
+  color: #fff;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -82,6 +82,7 @@ top: 40px;
 .mypic {
   width: 10%;
   height: 10%;
+  border-radius: 25%;
 }
 
 .skill-row {
@@ -140,3 +141,19 @@ top: 40px;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+.experience {
+  text-align: center;
+}
+
+.text-align {
+  text-align: center;
+}
+
+/* .description {
+  padding-inline-end: 10%;
+} */
+
+/* .projects {
+  margin-top: 0%;
+} */
